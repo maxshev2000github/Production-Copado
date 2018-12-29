@@ -751,8 +751,11 @@ IMAGE(&apos;/resource/1516617568000/&apos;+IF($Setup.copado__Settings__c.copado_
         <fullName>My_Orgs</fullName>
         <columns>NAME</columns>
         <columns>copado__Username__c</columns>
+        <columns>copado__Disable_Validation__c</columns>
+        <columns>copado__Default_Credential__c</columns>
         <columns>copado__Environment__c</columns>
         <columns>copado__SFDC_Org_ID__c</columns>
+        <columns>copado__Test_Frequency__c</columns>
         <filterScope>Mine</filterScope>
         <label>My Orgs</label>
     </listViews>
